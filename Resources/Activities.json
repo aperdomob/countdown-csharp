@@ -1,0 +1,92 @@
+﻿[
+  {
+    "description": "Leer el libro El juego interior del trabajo",
+    "date": "2017-02-25T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Leer el prologo",
+    "date": "2017-02-12T23:59:59",
+    "status": "closed"
+  },
+  {
+    "description": "Agradecimientos",
+    "date": "2017-02-13T23:59:59",
+    "status": "closed"
+  },
+  {
+    "description": "Introducción. La búsqueda de trabajo libre",
+    "date": "2017-02-14T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Una mejor forma de cambiar",
+    "date": "2017-02-15T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "El juego interior y el mundo empresarial",
+    "date": "2017-02-16T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "El centro de atención",
+    "date": "2017-02-17T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "La práctica de la concentración",
+    "date": "2017-02-18T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Redefiniendo el trabajo",
+    "date": "2017-02-19T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "De la conformidad a la mobilidad",
+    "date": "2017-02-20T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "La herramienta del STOP",
+    "date": "2017-02-21T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Piensa como un director general",
+    "date": "2017-02-22T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "El coaching",
+    "date": "2017-02-24T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "La ambición inherente",
+    "date": "2017-02-25T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Aprender Ingles",
+    "date": "2018-02-11T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Descargar libros de it-ebooks",
+    "date": "2017-04-30T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Reclamar maletin a Yesid",
+    "date": "2017-02-19T23:59:59",
+    "status": "pending"
+  },
+  {
+    "description": "Realizar esta aplicación en versión web",
+    "date": "2017-02-28T23:59:59",
+    "status": "pending"
+  }
+]
